@@ -1,0 +1,2 @@
+Selenium - for dynamic webscraping
+pycountry - for converting names of countries to ISO3 code
